@@ -53,9 +53,9 @@
 </p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
+Credits: [Jocarsf](https://github.com/jocarsoft)
 
-Last Edited on: 11/12/2020
+Last Edited on: 19/02/2025
 
 ## Hi there 👋
 
